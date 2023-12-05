@@ -7,4 +7,3 @@ with open("website.html") as file:
 soup = BeautifulSoup()
 
 
-# commit
