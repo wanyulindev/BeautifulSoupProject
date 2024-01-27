@@ -8,13 +8,6 @@ soup = BeautifulSoup()
 
 
 
-# commit
-
-
-
-
-
-
 
 
 
