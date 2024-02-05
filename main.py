@@ -15,8 +15,6 @@ soup = BeautifulSoup()
 
 
 
-#commit
-
 
 
 
