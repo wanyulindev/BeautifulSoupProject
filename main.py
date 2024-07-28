@@ -516,4 +516,3 @@ soup = BeautifulSoup(contents, )
 
 
 
-
